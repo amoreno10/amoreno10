@@ -1,10 +1,9 @@
 ### Hi there, I’m Alejandro Moreno aka [amoreno10][website]👋
 
-## I’m a Junior Data Analyst. I love to provide important insights from data!! 👀
+## I’m a Junior Data Analyst working at Galderma. I love to provide important insights from data!! 👀
 
-- 🌱 I’ll start a master degree in Data Science and Business Analytics at IMF Business School in Madrid by the end of this year.
 - 👯 I’m looking to collaborate with other data analysts.
-- 🥅 2021 Goal: Contribute to more projects, both mine and open source.
+- 🥅 2023 Goal: Contribute to more projects.
 - ❤️ Fun fact: I love music and soccer.
 
 ###  Connect with me:
